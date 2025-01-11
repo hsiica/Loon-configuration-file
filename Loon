@@ -81,7 +81,7 @@ Disney = select,HK,USA,JP,TW,SG,KR,OTHER,url = http://cp.cloudflare.com/generate
 X = select,Latency,HK,USA,JP,TW,SG,KR,OTHER,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App/Twitter-02.png
 HK = url-test,HK_Filter,url = http://cp.cloudflare.com/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
 TW = url-test,TW_Filter,url = http://cp.cloudflare.com/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
-USA = url-test,US_Filter,url = http://cp.cloudflare.com/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+USA = url-test,USA_Filter,url = http://cp.cloudflare.com/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
 SG = url-test,SG_Filter,url = http://cp.cloudflare.com/generate_204,interval = 600,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
 JP = select,JP_Filter,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
 KR = select,KR_Filter,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
